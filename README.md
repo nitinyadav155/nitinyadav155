@@ -2,7 +2,7 @@
 <h3 align="center">"Engineering Student | Data Science Enthusiast"</h3>
 
 <p align="center">
-  <img src="https://github.com/nitinyadav155/nitinyadav155/raw/master/assets/154495658/61850922-a931-4094-9e9c-f797f0f0d581.gif" alt="nitin" />
+    <img src="https://github.com/nitinyadav155/nitinyadav155/blob/master/assets/154495658/61850922-a931-4094-9e9c-f797f0f0d581.gif?raw=true" alt="nitin" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinyadav155&label=Profile%20views&color=0e75b6&style=flat" alt="nitinyadav155" /> </p>
