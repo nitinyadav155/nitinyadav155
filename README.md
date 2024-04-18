@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitin Yadav</h1>
 <h3 align="center">"Engineering Student | Data Science Enthusiast"</h3>
-<img align="right" alt ="coding" width ="400",src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2ih-T3dx8Y1HKg9LNMIpYo&ust=1713469826538000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCKndWCyoUDFQAAAAAdAAAAABAI.gif"> 
+![nitin](https://github.com/nitinyadav155/nitinyadav155/assets/154495658/61850922-a931-4094-9e9c-f797f0f0d581)
+
+<!-- <img align="right" alt ="coding" width ="400",src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2ih-T3dx8Y1HKg9LNMIpYo&ust=1713469826538000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCKndWCyoUDFQAAAAAdAAAAABAI.gif">  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinyadav155&label=Profile%20views&color=0e75b6&style=flat" alt="nitinyadav155" /> </p>
 
